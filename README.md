@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, world!</h1>
+<h1 align="center" style="color:#679c4c;>👋 Hello, world!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=679C4C&center=true&vCenter=true&width=500&lines=My+name+is+Caique+Souza+Salviato.;I'm+19+years+old.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
