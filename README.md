@@ -13,5 +13,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=caiquesalviato&label=👁️+Profile+views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=caiquesalviato&label=Profile+Views&color=FF6EC7&style=for-the-badge" alt="Profile views" />
 </p>
