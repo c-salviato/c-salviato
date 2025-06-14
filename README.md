@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, world!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=My+name+is+Caique+Souza+Salviato.;I'm+19+years+old.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=#679c4c&center=true&vCenter=true&width=500&lines=My+name+is+Caique+Souza+Salviato.;I'm+19+years+old.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -13,5 +13,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=caiquesalviato&label=Profile+Views&color=FF6EC7&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=caiquesalviato&label=Profile+Views&color=#679c4c&style=for-the-badge" alt="Profile views" />
 </p>
