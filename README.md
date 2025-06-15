@@ -1,15 +1,14 @@
-### Hi! I am Caique Salviato.
+![reversal](https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:7CFC00&reversal=true&section=header&animation=fadeIn)
 
-<p align="center">
-  <!-- Card da esquerda -->
-  <span style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api?username=c-salviato&show_icons=true&theme=highcontrast&hide_border=true&title_color=7CFC00&icon_color=32CD32" />
-  </span>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=30&duration=2000&pause=1500&color=00FF7F&vCenter=true&width=435&lines=My+name+is+Caique+Salviato;I+am+19+years+old" alt="Typing SVG" /></a>
 
-  <!-- Card da direita + texto abaixo -->
-  <span style="display: inline-block; vertical-align: top; text-align: left; margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-salviato&layout=compact&theme=highcontrast&hide_border=true&title_color=7CFC00&icon_color=32CD32" />
-    <br />
-    <span style="color: white; font-style: italic;">Desenvolvedor em formação</span>
-  </span>
-</p>
+<div align="center">
+  <a href="https://github.com/c-salviato">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c-salviato&show_icons=true&theme=highcontrast&hide_border=true&title_color=00FF7F&icon_color=00FF7F"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-salviato&layout=compact&langs_count=7&theme=highcontrast&hide_border=true&title_color=00FF7F&icon_color=00FF7F"/>
+</div>
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=c,html,css,javascript" />
+
+![reversal](https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:7CFC00&reversal=true&section=footer&animation=fadeIn)
