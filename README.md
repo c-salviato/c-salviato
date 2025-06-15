@@ -15,7 +15,7 @@
 <br>
 <div align="center">  
   <a href="https://x.com/caeeeeeq" target="_blank"><img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a> 
-  <a href="caique.s.salviato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:caique.s.salviato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ![reversal](https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:7CFC00&reversal=true&section=footer&animation=fadeIn)
